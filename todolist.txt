@@ -2,4 +2,4 @@ To do list
 1. Initialise new repo - done
 2. create first commit - done
 3. create secondary commit with GUI - done
-4. create a commit with source tree
+4. create a commit with sourcetree app - done
