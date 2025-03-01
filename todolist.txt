@@ -1,0 +1,4 @@
+To do list
+1. Initialise new repo - done
+2. create first commit - done
+3. create secondary commit with GUI
